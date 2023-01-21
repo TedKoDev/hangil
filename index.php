@@ -11,6 +11,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet" />
   <script src="https://kit.fontawesome.com/cc06229e4b.js" crossorigin="anonymous"></script>
   <title>University Website Design - Easy Tutorials</title>
+
+
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E3J6N4Q1J0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-E3J6N4Q1J0');
+  </script>
 </head>
 
 <body>
