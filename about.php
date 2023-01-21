@@ -14,7 +14,7 @@
 </head>
 
 <body>
-  <!------------------header ---------------->
+  <!-- ----------------header -------------- -->
   <section class="sub-header">
     <nav>
       <a href="index.php"> <img src="images/logo.png" alt="logo" /></a>
